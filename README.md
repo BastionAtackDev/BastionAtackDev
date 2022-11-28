@@ -15,3 +15,7 @@
 - 😄 Pronouns: ...
 
 -->
+## Languages and Technologies
+![C++](https://img.shields.io/badge/CPP-38bdf8?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-e54d26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
