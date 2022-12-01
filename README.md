@@ -6,7 +6,7 @@
 - 🚀 I’m currently learning web development
 - ⌨️ I like using Raspberry Pis for making server-side applications
 - 💾 I'm interested about old computers and old tech
-- 🎮 I also have some experience with game development in Unity 
+- 🎮 I have some experience with game development in Unity 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
