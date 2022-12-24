@@ -2,7 +2,7 @@
  I'm a student in his way to learn front-end development🖥️
 
 ## About me
-- 🔭 I’m currently working on my portofolio website
+- 🔭 I’m currently working on a web version of Paragrapho
 - 🚀 I’m currently learning web development
 - ⌨️ I like using Raspberry Pis for making server-side applications
 - 💾 I'm interested about old computers and old tech
