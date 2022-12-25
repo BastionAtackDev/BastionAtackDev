@@ -28,4 +28,4 @@
 ![Git](https://img.shields.io/badge/-Git-white.svg?style=for-the-badge&logo=git)&nbsp;
 
 ## Websites
-![Fibonacci](https://img.shields.io/website?down_color=red&down_message=Server%20Problem&style=flat-square&up_message=Up%20and%20running&url=https%3A%2F%2Fbastionatackdev.github.io%2FFibonacci-on-web%2F)&nbsp;
+![Fibonacci](https://img.shields.io/website?down_color=red&down_message=Server%20Problem&label=Fibonacci-on-web&style=flat-square&up_message=Up%20and%20running&url=https%3A%2F%2Fbastionatackdev.github.io%2FFibonacci-on-web%2F)&nbsp;
