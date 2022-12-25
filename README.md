@@ -23,3 +23,4 @@
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCODE-blue.svg?style=for-the-badge&logo=visual-studio-code)&nbsp;
