@@ -1,5 +1,5 @@
 # Hello there 👋
- I'm a student in his way to learn front-end development🖥️
+ I'm a student in his way to learn front-end and back-end development🖥️
 
 ## About me
 - 🔭 I’m currently working on a web version of Paragrapho
