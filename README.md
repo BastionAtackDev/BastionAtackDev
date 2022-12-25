@@ -26,3 +26,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VSCODE-blue.svg?style=for-the-badge&logo=visual-studio-code)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-white.svg?style=for-the-badge&logo=git)&nbsp;
+
+## Websites
+- [Fibonacci-on-web](https://img.shields.io/website?down_color=red&down_message=Server%20Problem&style=for-the-badge&up_message=Up%20and%20running&url=https%3A%2F%2Fbastionatackdev.github.io%2FFibonacci-on-web%2F)&nbsp;
