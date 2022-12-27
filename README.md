@@ -1,14 +1,13 @@
 # Hello there 👋
  I'm a student in his way to learn front-end and back-end development🖥️
 
-## 💫 About Me:
-
-    -    🔭 I’m currently working on a web version of Paragrapho
-    -    🚀 I’m currently learning web development
-    -    🤔 I want to learn how to make PWAs (Progresive Web Applications)🖥️📲
-    -    ⌨️ I like using Raspberry Pis for making server-side applications
-    -    💾 I'm interested about old computers and old tech 
-    -    🎮 I have some experience with game development in Unity
+## 💫 About Me
+-    🔭 I’m currently working on a web version of Paragrapho
+-    🚀 I’m currently learning web development
+-    🤔 I want to learn how to make PWAs (Progresive Web Applications)🖥️📲
+-    ⌨️ I like using Raspberry Pis for making server-side applications
+-    💾 I'm interested about old computers and old tech 
+-    🎮 I have some experience with game development in Unity
 
 
 ## 💻 Languages and Technologies:
