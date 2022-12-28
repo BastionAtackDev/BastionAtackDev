@@ -21,9 +21,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VSCODE-blue.svg?style=for-the-badge&logo=visual-studio-code)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
 
 ## 📊 GitHub Stats:
 
