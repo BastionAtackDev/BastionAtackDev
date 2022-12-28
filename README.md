@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-black.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BastionAtackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BastionAtackDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BastionAtackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
