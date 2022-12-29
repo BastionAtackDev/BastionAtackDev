@@ -2,7 +2,7 @@
  I'm a student in his way to learn front-end and back-end development🖥️
 
 ## 💫 About Me
--    🔭 I’m currently working on a web version of Paragrapho
+-    🔭 I’m currently working on my portfolio website
 -    🚀 I’m currently learning web development
 -    🤔 I want to learn how to make PWAs (Progresive Web Applications)🖥️📲
 -    ⌨️ I like using Raspberry Pis for making server-side applications
