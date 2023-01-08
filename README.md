@@ -40,3 +40,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Other stuff
+![](https://img.shields.io/github/followers/BastionAtackDev?style=for-the-badge)
