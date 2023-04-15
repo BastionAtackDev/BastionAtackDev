@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-FCC624.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Markdown](https://img.shields.io/badge/markdown-green.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/-BASH-black.svg?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;
 
 ![NPM](https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
