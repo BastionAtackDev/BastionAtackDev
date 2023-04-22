@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 -    🔭 I’m currently working on my portfolio website
--    🚀 I’m currently learning web development
+-    🚀 I’m currently learning web development and Vue.js
 -    🤔 I want to learn how to make PWAs (Progresive Web Applications)🖥️📲
 -    ⌨️ I like using Raspberry Pis for making server-side applications
 -    💾 I'm interested about old computers and old tech 
