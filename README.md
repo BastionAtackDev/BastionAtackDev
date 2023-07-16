@@ -1,7 +1,7 @@
 # Hello there 👋
  I'm a student in his way to learn front-end and back-end development🖥️
 # Website
-Check out my personal portfolio at [here](bastionatack.github.io)
+Check out my personal portfolio at [here](https://bastionatackdev.github.io/)
 ## 💫 About Me
 -    🔭 I’m currently working on my portfolio website
 -    🚀 I’m currently learning web development and Vue.js
