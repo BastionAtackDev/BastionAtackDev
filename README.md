@@ -37,8 +37,8 @@ Check out my personal portfolio at [here](https://bastionatackdev.github.io/)
 
 
 ## 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=BastionAtackDev&theme=dark&hide_border=false)<br/>
+<!--
+![](https://github-readme-streak-stats.herokuapp.com/?user=BastionAtackDev&theme=dark&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BastionAtackDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
