@@ -32,7 +32,7 @@ Check out my personal portfolio at [here](https://bastionatackdev.github.io/)
 ![VS Code](https://img.shields.io/badge/-VSCODIUM-blue.svg?style=for-the-badge&logo=vscodium&logoColor=white)&nbsp;
 
 ## Codewars
-![VS Code](https://www.codewars.com/users/BastionAtackJimmy/badges/small))&nbsp;
+![VS Code](https://www.codewars.com/users/BastionAtackJimmy/badges/small)&nbsp;
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BastionAtackDev&theme=dark&hide_border=false)<br/>
