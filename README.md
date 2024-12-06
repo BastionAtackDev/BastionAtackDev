@@ -1,14 +1,11 @@
 # Hello there 👋
- I'm a student in his way to learn front-end and back-end development🖥️
+ I'm a student in his way learning robotics🖥️
 # Website
 Check out my personal portfolio at [here](https://bastionatackdev.github.io/)
 ## 💫 About Me
 -    🔭 I’m currently working on my portfolio website
--    🚀 I’m currently learning web development and Vue.js
--    🤔 I want to learn how to make PWAs (Progresive Web Applications)🖥️📲
 -    ⌨️ I like using Raspberry Pis for making server-side applications
 -    💾 I'm interested about old computers and old tech 
--    🎮 I have some experience with game development in Unity
 
 <!--## Announces
 - [Fibonacci-on-web](https://github.com/BastionAtackDev/Fibonacci-on-web) is now a PWA-->
