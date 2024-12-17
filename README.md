@@ -25,8 +25,7 @@ Check out my personal portfolio at [here](https://bastionatackdev.github.io/)
 ![Git](https://img.shields.io/badge/-Git-black.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Manjaro](https://img.shields.io/badge/MANJARO-%211AB00.svg?style=for-the-badge&logo=manjaro&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/-VSCODE-blue.svg?style=for-the-badge&logo=visual-studio-code)&nbsp;
-![VS Code](https://img.shields.io/badge/-VSCODIUM-blue.svg?style=for-the-badge&logo=vscodium&logoColor=white)&nbsp;
+
 
 ## Codewars
 ![VS Code](https://www.codewars.com/users/BastionAtackJimmy/badges/small)&nbsp;
